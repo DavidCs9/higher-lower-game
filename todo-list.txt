@@ -1,0 +1,15 @@
+imprimir logo
+
+funcion que eliga una persona al azar
+
+funcion que imprima los datos de la persona con el formato establecido
+
+funcion que compare los seguidores de las dos personas y regrese a o b
+
+funcion que pregunte si acerto el usuario
+
+imprimir el vs
+
+variable con score
+
+
